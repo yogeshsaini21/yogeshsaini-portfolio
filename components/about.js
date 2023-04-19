@@ -32,7 +32,7 @@ let aboutsection = () => {
                 </div>
             </div>
             <a download href="https://drive.google.com/file/d/1hO0BxIGOt8wyWwkQ7l99sfSae8AMONJF/view?usp=sharing" target="_blank" class="btn">Resume</a>
-             <a download href="./Images/Resume.pdf" target="_blank" class="btn">Download</a>
+             <a download href="./Images/Yogesh-Saini-Resume.pdf" target="_blank" class="btn">Download</a>
            
           
         </div>
